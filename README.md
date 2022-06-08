@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashad8949
 - 👀 I’m interested in Algorithms And Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me at ashad8949@gmail.com
 
