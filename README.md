@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashad8949 looking for hookups.
+- 👋 Hi, I’m @Ashad8949.
 - 👀 I’m interested in Algorithms And Data Science
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
