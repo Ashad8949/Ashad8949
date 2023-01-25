@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm ASHAD ALAM</h1>
-<h3 align="center">Deep Learning|Machine Learnig|Backend Developer(Python)| DSA Enthusiast</h3>
+<h3 align="center">Deep Learning |Machine Learnig | Backend Developer(Python)| DSA Enthusiast</h3>
 
 - My updated [Resume](https://drive.google.com/file/d/1ee5knBtKUJZ1B4rRg7njxM283EqCKfrC/view?usp=share_link)
 - Practicing Data Structures and Algorithms at [LeetCode](https://leetcode.com/jackCal/)
