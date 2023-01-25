@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashad8949.
-- 👀 I’m interested in Algorithms And Data Science
+- 👀 I’m interested in Algorithms And Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me at ashad8949@gmail.com
