@@ -2,12 +2,12 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm ASHAD</h1>
-<h3 align="center">Android Developer [Kotlin and Flutter] | DSA Enthusiast</h3>
+<h3 align="center">Deep Learning|Machine Learnig|Backend Developer(Python)| DSA Enthusiast</h3>
 
-- My updated [Resume](https://github.com/xpandeyed/Portfolio/blob/master/Resume_LalBihariPandey.pdf)
+- My updated [Resume](https://drive.google.com/file/d/1ee5knBtKUJZ1B4rRg7njxM283EqCKfrC/view?usp=share_link)
 - Practicing Data Structures and Algorithms at [LeetCode](https://leetcode.com/jackCal/)
 - Shoot a mail on ashad8949@gmail.com
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/xpandeyed/](https://www.linkedin.com/in/ashad-alam-3326ab202/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ashad-alam-3326ab202/)
 <hr>
 <p align="center">
 <a href="https://github.com/Ashad8949">
